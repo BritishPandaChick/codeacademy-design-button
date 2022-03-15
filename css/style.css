@@ -1,8 +1,9 @@
-img {
+h1 {
   display: block;
   height: 100px;
   width: 300px;
   margin: auto;
+  text-align: center;
 }
 
 p {
